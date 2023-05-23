@@ -17,6 +17,9 @@ width: 400px;
 background-color: rgb(17, 111, 118);
 box-shadow: 0 4px 10px rgba(0,0,0,0.6);
 }
+h1{
+padding: 0 1rem 0rem;
+}
 .pw-header{
 padding: 1rem;
 }
